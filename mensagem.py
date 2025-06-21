@@ -1,0 +1,1 @@
+mensagem = "Hello World! Utilizando git com VSCode"
