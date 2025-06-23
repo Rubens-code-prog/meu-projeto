@@ -1,2 +1,7 @@
 mensagem = "Hello World!"
-print("Nova feature adicionada")
+print(mensagem)
+
+def saudacao(nome):
+    print(f'Seja bem vindo, {nome}!')
+
+saudacao("Asimov")
